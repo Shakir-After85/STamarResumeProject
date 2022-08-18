@@ -1,0 +1,107 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+template: "online-cv"
+skin: "orange"
+
+basic_info:
+
+    # Profile information
+    first_name: Shakir
+    last_name: Tamar (Payne) 
+    motto: Coder and Teacher
+    avatar: https://avatars2.githubusercontent.com/u/426452?s=96&v=4
+    summary: |
+        I dedicated my life to coding since I was 13 years old, today I'm fortunate to make a living building and teaching code to everyone throughout my different business endeavors:
+        
+        First I founded 4Geeks Developers Community: At the company, we built and launched 50 tech products during 10 years mainly focused in LatinAmerican markets. We opened offices in 7 different countries, 300 employees and more than $8,000,000 in revenues.
+        
+        4Geeks Academy: Coding academy with 700+ alumni worldwide, ~90% of the graduates had an average 20% increase in salary after completing the program. $1,000,000+ in annual revenues in 6 locations.
+        
+        BreatheCode: Not-for-profit open source community aiming to accelerate the way junior developers learn and evolve using technology. 
+
+    # Sidebar links
+    email: shakir.tamar@gmail.com
+    phone: 216 315 7044
+    website:  #do not add http://
+    linkedin: Shakir Tamar
+    github:  Shakir-After85
+    twitter: '@ShakirTamar'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+    languages:
+      - idiom: English
+      
+    interests:
+      - item: Fitness and Healthy Living
+      - item: Writing and music
+      - item: Cyber Security
+
+education:
+    - degree: AA Recording Arts and Technology
+      university: Cuyahoga Community College
+      time: 2015 - 2019
+
+experiences:
+    - role: Manager/Cook/Food Preparer
+      time: 2010 - 2019
+      company: Hot Sauce Williams, Cleveland OH
+      details: | 
+      My family's restaraunt, my main responsibilities:
+        	Sell store merchandise
+        	Greet and service customers
+        	Provide excellent customer service  
+        	Cashier
+        	Maintain food quality for optimum service
+        	Open and close restaurant 
+        	Complete and file paperwork from store transactions 
+
+    - role: Wax Finishing Lead
+      time: 2017-2019
+      company: Arconic, Cleveland OH
+      details: | 
+      Aircraft, Automobile part manufacturer my main responsibilities:
+         Responsible for the final finishing of wax/plastic patterns
+        	Repair defects in pattern assemblies 
+        	Ensure smooth blends and removing flash on patterns
+        	Level I Inspector 
+        	Train, help and manage other finishers 
+        	Production data entry via Excel 
+
+        
+    - role: Sales Associate/Stock Lead
+      time: 2010 - 2015
+      company: Finishline, Mentor
+      details: | 
+      Sports shoe and apparel store, my main responsibilities:
+        	Sell store merchandise
+        	Achieve optimum sells for store profit
+        	Greet and service customers
+        	Provide excellent customer service 
+        	Cashier
+        	Organize and manage stock merchandise
+        	Scheduling and maintaining shipping and receiving flow
+
+
+projects:
+
+      - title: Postcard Project
+        link: "https://github.com/Shakir-After85/PostCardProjectFinal"
+        tagline: "A basic postcard web app using HTML & CSS"
+
+      - title: Instagram Post Project 
+        link: "https://github.com/Shakir-After85/InstagramPostFinal"
+        tagline: "Instagram post web app using HTML & CSS"
+
+      - title: Tribute Page Project
+        link: "https://codepen.io/After85/pen/dyXNLMg"
+        tagline: "Tribute page feat. Public Enemy using HTML & CSS"
+
+      
+
+skills:
+    toolset:
+      - name: HTML5 & CSS
+        level: 70%
+
+      
